@@ -2,7 +2,7 @@ Michael Bosik
 IMGD4000 - Boids Assignment 1
 
 The Executable can be downloaded here:
-shorturl.at/cquY7
+https://shorturl.at/cquY7
 
 How to run
 Open the 'FlockingGame.exe' on a Windows machine.
